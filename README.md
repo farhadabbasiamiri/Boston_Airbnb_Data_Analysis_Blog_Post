@@ -36,7 +36,7 @@ Provide seasonal costs to customer. It can be used as a reference when planning 
 Correlation analysis allows hosts to see which factors have a significant impact on price. As a result of the analysis, the factors that have the greatest influence on price were in the order of number of accommodates, number of bedrooms, number of beds, number of bathrooms, and number of guests included. So, when the host decides the price, it's easier to find the right price through these five factors than other factors.
 
 ### 3. What is different between superhost and regular host?
-AirBnB Superhost have more benefits than regular host. If we know what is different between superhost and regular host, It is much easier to become superhost. By the analysis, Big differences between superhost and regular host in seattle are location and number of reviews. Unexpectedly, average review scores are very similar.
+AirBnB Superhost have more benefits than regular host. If we know what is different between superhost and regular host, It is much easier to become superhost. By the analysis, Big differences between superhost and regular host in Boston are location and number of reviews. Unexpectedly, average review scores are very similar.
 
 <hr>
 
