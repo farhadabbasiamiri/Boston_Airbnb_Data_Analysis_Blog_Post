@@ -44,7 +44,7 @@ AirBnB Superhost have more benefits than regular host. If we know what is differ
 Dataset files from https://www.kaggle.com/datasets/airbnb/boston
 
 - README.md: To introduce and explain the project.
-- Boston_Airbnb_DataSets:</n>
+- Boston_Airbnb_DataSets:<\n>
   calendar.csv: Calendar, including listing id and the price and availability for that day.
   listings.csv: Listings, including full descriptions and average review score.
   reviews.csv: Reviews, including unique id for each reviewer and detailed comments.
