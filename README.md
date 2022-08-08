@@ -27,7 +27,7 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 ## Project Motivation <a name="motivation"></a>
 
 ### AirBnB Boston Open Data Analysis
-By analyzing AirBnB Boston Open Data, We can provide valuable informations to hosts and customer.
+By analyzing AirBnB Boston Open Data, We can provide valuable informations to hosts and customers.
 
 ### 1. How do seasonal costs change?
 Provide seasonal costs to customer. It can be used as a reference when planning a trip
