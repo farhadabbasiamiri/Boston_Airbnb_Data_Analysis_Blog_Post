@@ -45,11 +45,11 @@ Dataset files from https://www.kaggle.com/datasets/airbnb/boston
 - calendar.csv: Calendar, including listing id and the price and availability for that day
 - listings.csv: Listings, including full descriptions and average review score
 - reviews.csv: Reviews, including unique id for each reviewer and detailed comments
-- Project_Boston_Airbnb-.ipynb: IPython Notebook for data preparation, modeling, evaluation
+- Project_Boston_Airbnb.ipynb: IPython Notebook for data preparation, modeling, evaluation
 - README.md: To introduce and explain the project.
 
 ## Results <a name="results"></a>
 The main findings of the code can be found at the post available [here](https://medium.com/@farhadabbasiamiri/airbnb-boston-open-data-analysis-692f6d63e5f2)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Airbnb link available [here](https://www.kaggle.com/datasets/airbnb/boston).
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/boston).
